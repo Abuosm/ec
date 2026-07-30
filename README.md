@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # spring-boot-react-ecommerce-app
 eCommerce application based on the microservices architecture built using Spring Boot and ReactJS.
 
@@ -128,3 +129,6 @@ Installation Video: https://youtu.be/nPKYbdKPd0E
 18. https://stripe.com/docs
 19. https://developers.google.com/identity/protocols/oauth2
 20. https://devcenter.heroku.com/articles/heroku-redis
+=======
+# ec
+>>>>>>> 754577b7223ba97a4b7cf965e247297b60c3f8e7
